@@ -51,7 +51,7 @@ As a user, I can:
       "votes": 0
     },
     {
-      "id": 2,
+      "id": 2,v
       "name": "Mr. Monkey",
       "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
       "votes": 0
